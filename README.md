@@ -1,3 +1,4 @@
+CATHERINE DEOGRATIAS RICHARD          14315008/T.24          BSC.ITS - 2
 # Agri Market System
 
 ## Project Overview
@@ -77,3 +78,5 @@ CATHERINE RICHARD
 Advanced Web Development Project
 
 2026
+
+@ kadefue
